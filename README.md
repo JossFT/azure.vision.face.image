@@ -20,8 +20,6 @@ abre um leque de possibilidades em diversas áreas.
 3-monitoramento de paciente;
 4-documentação e arquivamento - extração de textos de documentos digitalizados ou escritos a mão e desta forma facilitar a busca e indexação.
 
-Contribuições são bem-vindas! Por favor, abra um issue para discutir novas funcionalidades ou melhorias.
-
 Licença:
 Licença MIT
 
